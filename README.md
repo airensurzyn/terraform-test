@@ -1,0 +1,1 @@
+Trying out gitops with Terraform and Terragrunt
